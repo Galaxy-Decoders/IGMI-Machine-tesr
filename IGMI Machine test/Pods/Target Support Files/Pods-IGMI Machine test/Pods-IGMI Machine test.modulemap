@@ -1,0 +1,6 @@
+framework module Pods_IGMI_Machine_test {
+  umbrella header "Pods-IGMI Machine test-umbrella.h"
+
+  export *
+  module * { export * }
+}
